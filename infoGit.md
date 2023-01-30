@@ -15,3 +15,4 @@
 * **git checkout master** – *вернуться к актуальному состоянию и продолжить работу*
 
 * **git diff** – *увидеть разницу между текущим файлом и закоммиченным файлом*
+![flk](https://funart.pro/uploads/posts/2021-04/thumbs/1617874079_49-p-oboi-fialka-golubaya-52.jpg)
