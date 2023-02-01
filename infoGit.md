@@ -36,7 +36,7 @@ git checkout  -b <название ветки> - создание ветки и 
 * **git log --oneline** – *коротенький журнал*
 
 * **git branch** – *посмотреть список веток в репозитории*
-* **git branch -d <название ветки>** – *удалить ветку*
 
 * **git checkout <название ветки>** – *переход к другой ветке*
 
+![](https://s2.best-wallpaper.net/wallpaper/1920x1200/1807/White-phalaenopsis-black-background_1920x1200.jpg)
