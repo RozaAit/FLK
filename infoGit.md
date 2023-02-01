@@ -16,7 +16,7 @@
 
 * **git diff** – *увидеть разницу между текущим файлом и закоммиченным файлом*
 
-![flk](https://funart.pro/uploads/posts/2021-04/thumbs/1617874079_49-p-oboi-fialka-golubaya-521.jpg)
+![flk](https://funart.pro/uploads/posts/2021-04/thumbs/1617874079_49-p-oboi-fialka-golubaya-52.jpg)
 
 ## Основные команды Git 2-го семинара 
 
