@@ -40,3 +40,7 @@ git checkout  -b <название ветки> - создание ветки и 
 * **git checkout <название ветки>** – *переход к другой ветке*
 
 ![](https://s2.best-wallpaper.net/wallpaper/1920x1200/1807/White-phalaenopsis-black-background_1920x1200.jpg)
+
+* **git pull** - получение изменений и слияние с локальной версией
+
+* **git push** - отправляет локальную версию репозитория во внешний
